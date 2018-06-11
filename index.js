@@ -31,7 +31,8 @@ function whisper(string) {
  }
  
  function sayHiToGrandma(string) {
-   return string.toUpperCase()
    console.log; 'sayHiToGrandma'
+   return string.toUpperCase()
+   
  }
  
