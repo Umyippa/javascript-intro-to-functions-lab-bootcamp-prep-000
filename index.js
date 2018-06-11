@@ -31,7 +31,7 @@ function whisper(string) {
  }
  
  function sayHiToGrandma(string) {
-   return string('HELLO')
+   return string.toUpperCase('HELLO')
    
  }
  
