@@ -30,8 +30,8 @@ function whisper(string) {
    console.log ('hello')
  }
  
- function SAYHITOGRANDMA(string) {
-   return string()
+ function sayHiToGrandma(string) {
+   return string.toUpperCase()
    
  }
  
