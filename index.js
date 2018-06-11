@@ -31,7 +31,7 @@ function whisper(string) {
  }
  
  function sayHiToGrandma(string) {
-   return string.toUpperCase() === lowercase // true
+   return string.toUpperCase() === uppercase // true
    
  }
  
