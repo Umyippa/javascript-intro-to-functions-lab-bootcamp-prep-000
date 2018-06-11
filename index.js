@@ -32,7 +32,7 @@ function whisper(string) {
  
  function sayHiToGrandma(string) {
    return string.toUpperCase()
-   console.log()
+   console.log('HELLO')
    
  }
  
