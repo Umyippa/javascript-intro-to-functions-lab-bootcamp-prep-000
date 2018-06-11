@@ -35,8 +35,8 @@ function whisper(string) {
      return "I can\'t hear you!";
    }
    if (string.toUpperCase() === string) {
-     return
+     return "Yes Indeed!";
    }
-   
+   if 
  }
  
