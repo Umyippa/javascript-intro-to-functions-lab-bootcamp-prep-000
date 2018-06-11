@@ -31,7 +31,7 @@ function whisper(string) {
  }
  
  function sayHiToGrandma(string) {
-   console.log('HELLO')
+   return ('HELLO')
    
  }
  
