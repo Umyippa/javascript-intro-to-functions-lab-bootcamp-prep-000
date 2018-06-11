@@ -30,8 +30,8 @@ function whisper(string) {
    console.log ('hello')
  }
  
- function sayHiToGrandma(string) {
-   console.log ('I love you, Grandma.')
+ function SAYHITOGRANDMA(string) {
+   return string()
    
  }
  
